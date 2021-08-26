@@ -12,3 +12,6 @@ pipeline {
 	    sh ('date')
 	    }
 	}
+
+    }
+   }
